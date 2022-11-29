@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Flutter , Data Structure and Algorithms**
 
-- 💬 Ask me about **C++, Python, Wordpress,**
-
 - 📫 How to reach me **adityavishal903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
