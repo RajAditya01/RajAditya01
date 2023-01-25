@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaditya01&label=Profile%20views&color=0e75b6&style=flat" alt="rajaditya01" /> </p>
 
-- 🔭 I’m currently working on **App Development (In Flutter)**
-
-- 🌱 I’m currently learning **Flutter , Data Structure and Algorithms**
+- 🌱 I’m currently learning **Data Structure and Algorithms , Competitive Programming**
 
 - 📫 How to reach me **adityavishal903@gmail.com**
 
