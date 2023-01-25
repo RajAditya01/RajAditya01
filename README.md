@@ -1,4 +1,4 @@
-<h1> Hello there! I'm Aditya Raj.<img src="https://raw.githubusercontent.com/m0hit-kumar/m0hit-kumar/main/src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+<h1> Hello there! I'm Aditya Raj.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me;on+Linkedin😄)](https://git.io/typing-svg)
 
