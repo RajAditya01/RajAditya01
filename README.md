@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajAditya01&show_icons=true&locale=en&theme=dark" alt="RajAditya01" /></p>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RajAditya01&theme=dark" />
+<!--     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RajAditya01&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=RajAditya01&theme=default" />
 </picture>
-
+ --> 
