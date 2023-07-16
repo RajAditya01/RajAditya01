@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaditya01&label=Profile%20views&color=0e75b6&style=flat" alt="rajaditya01" /> </p>
 
-- 🌱 I'm captivated by the allure of MERN development and have redirected my focus towards mastering its power-packed capabilities.**
+- 🌱 I'm captivated by the allure of MERN development and have redirected my focus towards mastering its power-packed capabilities.
 
 - 📫 How to reach me **adityavishal903@gmail.com**
 
