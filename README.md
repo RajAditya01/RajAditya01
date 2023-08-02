@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+new+skills+🚀+;Exploring+the+world+🌎+;Creating+awesome+projects+👨‍💻+;Let's+connect+on+LinkedIn+🤝)](https://git.io/typing-svg)
 
 <h3 align="center">Currently Pursuing Bachelor of Technology in Computer Science.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaditya01&label=Profile%20views&color=0e75b6&style=flat" alt="rajaditya01" /> </p>
 
