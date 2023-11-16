@@ -26,6 +26,4 @@
     <img src="https://streak-stats.demolab.com?user=RajAditya01&theme=default" />
 </picture>
 
-
- <a href = "https://holopin.io/@rajaditya01"><img src = "https://holopin.me/rajaditya01" alt=""/></a>
  </p>
