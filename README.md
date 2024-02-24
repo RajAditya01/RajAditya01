@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaditya01&label=Profile%20views&color=0e75b6&style=flat" alt="rajaditya01" /> </p>
 
-- 🌱 I'm enchanted by the MERN stack's potential and have shifted my attention to mastering its robust features.
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
 - 📫 How to reach me **adityavishal903@gmail.com**
 
