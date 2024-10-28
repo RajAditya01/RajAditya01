@@ -113,7 +113,7 @@ Hi, I'm Aditya Raj (@RajAditya01), a tech enthusiast specializing in the MERN st
 
 - ⚡ Fun fact: **Coding is not just a profession for me, it’s a passion that drives my curiosity and growth.**
 
-
+- 🌟 Committed to continuous learning and improvement, always seeking opportunities to enhance my skills and stay updated with industry trends.
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
