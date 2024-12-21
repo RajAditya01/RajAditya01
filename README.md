@@ -87,6 +87,10 @@ Hi, I'm Aditya Raj (@RajAditya01), a tech enthusiast specializing in the MERN st
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white)  
+![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)  
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+![Watermelon](https://img.shields.io/badge/watermelon-%230E76A8.svg?style=for-the-badge&logoColor=white)  
 
 
 | <a href="https://github.com/RajAditya01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajAditya01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya's github stats" /></a> | <a href="https://github.com/RajAditya01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAditya01&layout=compact&theme=buefy&hide_border=true" /></a> |
