@@ -5,7 +5,7 @@
 # 🧑🏻‍💻 Hi, I'm Aditya! Great to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Full+Stack+Developer;Passionate+about+Web+Development;Always+Learning+New+Things;Welcome+to+my+profile+..."></a>
 
-**`Full Stack Developer | Competitive Programmer`**
+**`Full Stack Developer | Automation Engineer | Competitive Programmer`**
 
 Hi, I'm Aditya Raj (@RajAditya01), a tech enthusiast specializing in the MERN stack. As a passionate developer, I love building innovative solutions that make a real impact. I thrive in collaborative environments where diverse ideas drive creativity.
 
