@@ -20,9 +20,9 @@ Hi, I'm Aditya Raj (@RajAditya01), a tech enthusiast specializing in the MERN st
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RajAditya01?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I'm currently working on learning stuff.
 
-- 💬 Ask me about **MERN Stack, DSA, APIs**
+- 💬 Ask me about **MERN Stack, DSA, Automation**
 
 - 📫 How to reach me **adityavishal903@gmail.com**
 
